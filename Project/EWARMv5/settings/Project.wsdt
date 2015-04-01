@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Project/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>318</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>23</ColumnWidth0><ColumnWidth1>503</ColumnWidth1><ColumnWidth2>744</ColumnWidth2><ColumnWidth3>36</ColumnWidth3></Build>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>23</ColumnWidth0><ColumnWidth1>722</ColumnWidth1></Debug-Log>
+    <TerminalIO/><Find-in-Files><ColumnWidth0>872</ColumnWidth0><ColumnWidth1>133</ColumnWidth1><ColumnWidth2>946</ColumnWidth2></Find-in-Files><Disassembly><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow><InstrProfShow>0</InstrProfShow></Disassembly></Static>
+    <Windows>
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-20284-29138</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Project</ExpandedNode><ExpandedNode>Project/User</ExpandedNode><ExpandedNode>Project/apps</ExpandedNode><ExpandedNode>Project/apps/6lbr</ExpandedNode><ExpandedNode>Project/apps/6lbr/webserver</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-23379-30512</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          
+        <Tab><Identity>TabID-20167-19471</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-17032-4552</Identity><TabName>Breakpoints</TabName><Factory>Breakpoints</Factory></Tab><Tab><Identity>TabID-11642-14098</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>E:\Project\WsCom\MicrumSTM32\6lbrSTM32-&#x5B9e;&#x73B0;IPv6&#x901A;&#x4Fe1;\Project\src\main.c</Filename><XPos>0</XPos><YPos>75</YPos><SelStart>2577</SelStart><SelEnd>2577</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\Project\WsCom\MicrumSTM32\6lbrSTM32-&#x5B9e;&#x73B0;IPv6&#x901A;&#x4Fe1;\Utilities\contiki\apps\6lbr\cetic-6lbr.c</Filename><XPos>0</XPos><YPos>287</YPos><SelStart>10319</SelStart><SelEnd>10319</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\Project\WsCom\MicrumSTM32\6lbrSTM32-&#x5B9e;&#x73B0;IPv6&#x901A;&#x4Fe1;\Utilities\contiki\apps\6lbr\nvm-config.c</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>1882</SelStart><SelEnd>1882</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\Project\WsCom\MicrumSTM32\6lbrSTM32-&#x5B9e;&#x73B0;IPv6&#x901A;&#x4Fe1;\Utilities\contiki\apps\6lbr\nvm-config.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>771</SelStart><SelEnd>771</SelEnd></Tab><ActiveTab>3</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00784020><key>iaridepm.enu1</key></Toolbar-00784020></Sizes></Row0></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>550</Bottom><Right>409</Right><x>-2</x><y>-2</y><xscreen>877</xscreen><yscreen>1200</yscreen><sizeHorzCX>548125</sizeHorzCX><sizeHorzCY>1466993</sizeHorzCY><sizeVertCX>256875</sizeVertCX><sizeVertCY>674817</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>223</Bottom><Right>1602</Right><x>-2</x><y>-2</y><xscreen>1604</xscreen><yscreen>225</yscreen><sizeHorzCX>1002500</sizeHorzCX><sizeHorzCY>275061</sizeHorzCY><sizeVertCX>548125</sizeVertCX><sizeVertCY>1466993</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
